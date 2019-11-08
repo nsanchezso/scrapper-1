@@ -1,4 +1,0 @@
-# importem els moduls necessaris. El bs4 importa la llibraria Beautiful Soup
-#
-import requests
-import bs4
