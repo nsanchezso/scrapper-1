@@ -58,10 +58,15 @@ Aquestes no són dades temporals, es a dir és simplement un recull caractaristi
 
 
 
-### 6. Agraïments. Presentar el propietari del conjunt de dades. És necessari incloure cites de recerca o anàlisis anteriors (si n'hi ha).
+### 6. Agraïments.
+
+Els propietaris de la web amb la que treballem són l'empresa Pokemon, el funcador fou Satoshi Tajiri. 
 
 
-7. Inspiració. Explicar per què és interessant aquest conjunt de dades i quines preguntes es pretenen respondre.
+### 7. Inspiració.
+
+L'interes del conjunt de dades és basicament per millorar el coneixementsobre aquesta empresa i els diferentos jocs que son possibles amb els seus personatges. Amb les dade que hem obtingut podriem estudiar les diferents caracteristiques dels pokemons aixi com quan es millor utilitzar cada un d'ells i quins pokemons combaten a quins altres.
+
 8. Llicència. Seleccionar una d'aquestes llicències pel dataset resultant i explicar el motiu de la seva selecció:
 * Released Under CC0: Public Domain License
 * Released Under CC BY-NC-SA 4.0 License
@@ -69,5 +74,11 @@ Aquestes no són dades temporals, es a dir és simplement un recull caractaristi
 * Database released under Open Database License, individual contentsunder Database Contents License
 * Other (specified above)
 * Unknown License
-9. Codi. Adjuntar el codi amb el qual s'ha generat el dataset, preferiblement en Python o, alternativament, en R.
-10. Dataset. Presentar el dataset en format CSV
+
+### 9. Codi. 
+
+El codi amb el que hem treballat esta disponible al enllac a GitHub que es proporciona a l'entrega. 
+
+### 10. Dataset
+
+També adjuntat a aquesta entrega proporcionem el dataset obtingut en fromat csv, les dades estan guardades en un fitxer amb el seguent nom: Pokemon.csv
