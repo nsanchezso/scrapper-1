@@ -22,7 +22,6 @@ Un títol descriptiu per aquest dataset ha de portar el nom de Pokemon, en aques
 - Tipus de Pokemons
 - Caracteristiques de Pokemons
 - Classificació de Pokemons
-- ... 
 
 D'entre aquets titols ens decidim per : "Caracteristiques de Pokemons"
 
@@ -75,3 +74,9 @@ El codi amb el que hem treballat esta disponible al enllac a GitHub que es propo
 ### 10. Dataset
 
 També adjuntat a aquesta entrega proporcionem el dataset obtingut en fromat csv, les dades estan guardades en un fitxer amb el seguent nom: Pokemon.csv
+
+|   Contribucions	|  Signa 	| 
+| ------------- | ------------- |
+| Recerca prèvia	|  Noé Sánchez	|
+| Redacció de les respostes  	|  Noé Sánchez 	|  
+| Desenvolupament codi 	|  Noé Sánchez 	|
