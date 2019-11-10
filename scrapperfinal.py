@@ -41,7 +41,7 @@ dfPok = pd.DataFrame(elementList)
 dfPok.columns = ['Nombre', 'Nom', 'Salud', 'Atac', 'Defensa', 'Velositat', 'Atac_Especial', 'Defensa_Especial', 'Total']
 
 # Aqui exportem les dades a .csv
-dfPok.to_csv(r'Pokemon.csv', index=None, header=True)
+dfPok.to_csv(r'Caracteristiques_de_Pokemons.csv', index=None, header=True)
 
 # Anem a estudiar l'estructura de les dades extretes
 
