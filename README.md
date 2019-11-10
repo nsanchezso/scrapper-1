@@ -25,11 +25,11 @@ Un títol descriptiu per aquest dataset ha de portar el nom de Pokemon, en aques
 
 D'entre aquets titols ens decidim per : "Caracteristiques de Pokemons"
 
-### 3. Descripció del dataset. Desenvolupar una descripció breu del conjunt de dades que s'ha extret (és necessari que aquesta descripció tingui sentit amb el títol triat).
+### 3. Descripció del dataset. 
 
 El dataset contindrà la informació referent als 802 pokemons existents fins al moment en la història del anime. Aquesta llista es trobará ordenada per nombre, i per cada fila es s'assenyalaràn els trets més importants del pokemon respecte al seu desenvolupament en el combat. Aquest ordre, també indicarà ordre cronològic, ja que els primers en apareixer seràn els més antics, creats en les primeres temporades de la història, i com es vaja avançant cada vegada seràn de creació més recent.
 
-### 4. Representació gràfica. Presentar una imatge o esquema que identifiqui el dataset visualment
+### 4. Representació gràfica.
 
 La imatge que millor representa el nostre dataset és la següent:
 
@@ -38,7 +38,7 @@ La imatge que millor representa el nostre dataset és la següent:
 És una imatge on podem veure un grup de pokemos, a simple vista ja veiem que tots són diferents i per tant ja s'intuiex a simple vista que cada un te característiques distintives respecte els altres.
 
 
-### 5. Contingut. Explicar els camps que inclou el dataset, el període de temps de les dades i com s'ha recollit.
+### 5. Contingut. 
 
 El dataset que obtenim consta de 10 atributs:
 
@@ -77,6 +77,6 @@ També adjuntat a aquesta entrega proporcionem el dataset obtingut en fromat csv
 
 |   Contribucions	|  Signa 	| 
 | ------------- | ------------- |
-| Recerca prèvia	|  Noé Sánchez	|
-| Redacció de les respostes  	|  Noé Sánchez 	|  
-| Desenvolupament codi 	|  Noé Sánchez 	|
+| Recerca prèvia	|  Noé Sánchez ; Gemma Garcia	|
+| Redacció de les respostes  	|  Noé Sánchez ; Gemma Garcia		|  
+| Desenvolupament codi 	|  Noé Sánchez ; Gemma Garcia		|
