@@ -38,10 +38,7 @@ import pandas as pd
 
 # Creem un df a partir de la llista elementList
 dfPok =pd.DataFrame(elementList)
-
-
-# Fem un cop d'ull al df
-print(dfPok)
+dfPok.columns = ['Nombre','Nom','Salud','Atac','Defensa','Velositat','Atac_Especial','Defensa_Especial','Total']
 
 # Aqui exportem les dades a .csv
 dfPok.to_csv (r'Pokemon.csv', index = None, header=False)
@@ -50,3 +47,22 @@ dfPok.to_csv (r'Pokemon.csv', index = None, header=False)
 
 # Primer fem un cop d'ull al df creat
 dfPok.head()
+
+# Fem un primer analisis descriptiu, primer estabilim el format de les dades
+dfPok=dfPok.astype({'Salud':'int'})
+dfPok=dfPok.astype({'Atac':'int'})
+dfPok=dfPok.astype({'Defensa':'int'})
+dfPok=dfPok.astype({'Velositat':'int'})
+dfPok=dfPok.astype({'Atac_Especial':'int'})
+dfPok=dfPok.astype({'Defensa_Especial':'int'})
+dfPok=dfPok.astype({'Total':'int'})
+
+# Ara veiem que les dades estan en format adequat:
+
+dfPok.dtypes
+
+#En la següent taula veiem un resum de les estadistiques, valor central, desviaciom max, min i quantils
+dfPok.describe()
+
+# Conjunt de boxplots per descripcio gràfica
+dfPok.boxplot(return_type='axes',grid=False, patch_artist=True ,vert=False, column =['Salud','Atac','Defensa','Velositat','Atac_Especial','Defensa_Especial']).set_title('Representació gràfica Variables DataSet')
