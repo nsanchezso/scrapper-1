@@ -67,7 +67,10 @@ Els propietaris de la web amb la que treballem són l'empresa Pokemon, el funcad
 
 L'interes del conjunt de dades és basicament per millorar el coneixementsobre aquesta empresa i els diferentos jocs que son possibles amb els seus personatges. Amb les dade que hem obtingut podriem estudiar les diferents caracteristiques dels pokemons aixi com quan es millor utilitzar cada un d'ells i quins pokemons combaten a quins altres.
 
-8. Llicència. Seleccionar una d'aquestes llicències pel dataset resultant i explicar el motiu de la seva selecció:
+### 8. Llicència. 
+
+Seleccionar una d'aquestes llicències pel dataset resultant i explicar el motiu de la seva selecció:
+
 * Released Under CC0: Public Domain License
 * Released Under CC BY-NC-SA 4.0 License
 * Released Under CC BY-SA 4.0 License
