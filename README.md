@@ -42,14 +42,14 @@ La imatge que millor representa el nostre dataset és la següent:
 
 El dataset que obtenim consta de 10 atributs:
 
-nombre : el nombre identificador.
-nom : nom del pokemon.
-tipus : quin tipus de pokemon és.
-salut : punts de salut.
-defensa : punts de defensa.
-velocitat : la velocitat que pot aconseguir el pokemon.
-AtacEspecial : punts d'atac especial.
-DefensaEspecial: punts de defensa especial.
+- nombre : el nombre identificador.
+- nom : nom del pokemon.
+- tipus : quin tipus de pokemon és.
+- salut : punts de salut.
+- defensa : punts de defensa.
+- velocitat : la velocitat que pot aconseguir el pokemon.
+- AtacEspecial : punts d'atac especial.
+- DefensaEspecial: punts de defensa especial.
 
 Aquestes no són dades temporals, es a dir és simplement un recull caractaristic dels diferents pokemons. En aquesta taula hem recollit infomracio de 802 Pokemons.
 
